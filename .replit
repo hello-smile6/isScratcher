@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "serve.js"
 
 [interpreter]
 command = [
