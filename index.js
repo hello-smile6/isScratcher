@@ -1,5 +1,6 @@
 // const validate=require("./validate.js");
 const api=require("./api.js");
+const docs=require("./docs.js");
 const jsdom=require("jsdom");
 const express=require("express");
 const app=express();
